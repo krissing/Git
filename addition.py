@@ -1,3 +1,4 @@
+from Git import variable
 
 def addition(x,y):
     """Fonction d'addition de 2 variables x et y"""
